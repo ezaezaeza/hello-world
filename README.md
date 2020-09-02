@@ -1,2 +1,5 @@
 # hello-world
-just another repository
+Hello!
+
+I will do my best to run this tutorial
+But I will need a lot of coffee!
